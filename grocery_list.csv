@@ -1,5 +1,4 @@
-data = [
-  ['Milk', 'Dairy', 2.50],
-  ['Bread', 'Bakery', 1.50],
-  ['Apple', 'Fruits', 0.80]
-]
+item, category, price
+Milk,  Dairy,    2.50
+Bread, Bakery,   1.50
+Apple, Fruits,   0.80
